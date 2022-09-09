@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @illario
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hello i am illario, i am programmer. 
+I have changed the nvidia kernel driver 417.35,466.77,512.15
+to make support all DirectX features,  such RayTracing by 
+mining cards such as p106-090 and p106-100. 
+My next target is to make these card work with pci-e version 3.0.
+I have understanding where to find variables such pcilinkSpeed=1000
+by disassembling code in Windows kernel debug mmode. 
 
-<!---
-illario7/illario7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
