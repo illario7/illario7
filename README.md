@@ -1,2 +1,2 @@
-Hello i am illario, i am programmer from Moscow. 
+Hello i am illario, i am programmer
 C++, Asm, C#
